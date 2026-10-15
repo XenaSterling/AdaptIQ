@@ -1,0 +1,78 @@
+{
+  "levels": {
+    "basic": "Básico",
+    "intermediate": "Intermedio",
+    "advanced": "Avanzado"
+  },
+
+  "confidence": {
+    "high": "Alta",
+    "medium": "Media",
+    "low": "Baja"
+  },
+
+  "charts": {
+    "thetaEvolution": "Evolución de Theta",
+    "weakTopics": "Temas débiles",
+    "confidenceDistribution": "Nivel de confianza",
+    "dropoutRisk": "Distribución del riesgo de abandono",
+    "failedQuestions": "Preguntas con más fallos",
+    "cohorts": "Distribución de estudiantes por cohortes",
+    "highRiskStudents": "Estudiantes con alto riesgo",
+    "usersByRole": "Usuarios por rol",
+    "evaluationStatus": "Estado de las evaluaciones",
+    "students": "Estudiantes",
+    "questions": "Preguntas",
+    "topics": "Temas",
+    "errorRate": "Tasa de error",
+    "errors": "Errores",
+    "studentsPerCohort": "Estudiantes por cohorte",
+    "lowPerformance": "Bajo rendimiento",
+    "mediumPerformance": "Rendimiento medio",
+    "highPerformance": "Alto rendimiento",
+    "cluster": "Grupo",
+    "evaluation": "Evaluaciones",
+    "step": "Paso {{step}}",
+    "moduleProgress": "Progreso por módulos"
+  },
+
+  "student": {
+    "title": "Panel del Estudiante",
+
+    "theta": "Habilidad estimada",
+    "level": "Nivel",
+    "accuracy": "Precisión",
+    "averageScore": "Puntuación media",
+    "evaluations": "Evaluaciones",
+    "uncertainty": "Incertidumbre",
+    "confidence": "Confianza",
+    "progress": "Progreso",
+    "modulesCompleted": "Módulos completados",
+    "averageModuleProgress": "Progreso medio"
+  },
+
+  "teacher": {
+    "title": "Panel del Profesor",
+
+    "totalStudents": "Total de estudiantes",
+    "accuracy": "Precisión",
+    "totalEvaluations": "Evaluaciones realizadas",
+    "totalAnswers": "Respuestas registradas",
+    "averageScore": "Puntuación media",
+    "averageTheta": "Theta medio",
+    "strugglingStudents": "Estudiantes con dificultades"
+  },
+
+  "admin": {
+    "title": "Panel del Administrador",
+
+    "totalUsers": "Usuarios registrados",
+    "totalCourses": "Cursos",
+    "totalEvaluations": "Evaluaciones",
+    "averageScore": "Puntuación media",
+    "averageTheta": "Theta medio",
+    "abandonedEvaluations": "Evaluaciones abandonadas"
+  },
+
+  "topics": {}
+}

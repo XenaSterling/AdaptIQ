@@ -1,0 +1,169 @@
+/**
+ * Módulo: app.css
+ * Descripción: Define los estilos principales de la aplicación,
+ *              incluyendo la estructura de las páginas, tarjetas,
+ *              formularios, navegación, respuestas de evaluaciones,
+ *              indicadores de carga y gráficos.
+ * Autor: Raquel Del Castillo Pérez
+ */
+
+body {
+  margin: 0;
+  font-family: Arial;
+  background: #f5f7fb;
+}
+
+.container {
+  max-width: 1200px;
+  margin: auto;
+  padding: 40px;
+}
+
+.page-center {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+.card {
+  background: white;
+  padding: 24px;
+  border-radius: 12px;
+  margin-bottom: 20px;
+  box-shadow: 0 2px 10px rgba(0, 0, 0, 0.08);
+
+  /* NUEVO */
+  text-align: left;
+}
+
+.grid {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 20px;
+}
+
+.login-card {
+  width: 400px;
+}
+
+
+input[type="text"],
+input[type="email"],
+input[type="password"] {
+  width: 100%;
+  padding: 12px;
+  margin-bottom: 16px;
+}
+
+button {
+  background: #2563eb;
+  color: white;
+  border: none;
+  padding: 12px 18px;
+  border-radius: 8px;
+  cursor: pointer;
+}
+
+button:hover {
+  opacity: 0.9;
+}
+
+.navbar {
+  background: #111827;
+  color: white;
+  padding: 16px 32px;
+
+  display: flex;
+  justify-content: space-between;
+}
+
+.nav-left {
+  display: flex;
+  gap: 20px;
+}
+
+.navbar a {
+  color: white;
+  text-decoration: none;
+}
+
+
+.answers {
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+  margin: 24px 0;
+
+  text-align: left;
+}
+
+.answer {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+
+  padding: 10px;
+
+  border: 1px solid #e5e7eb;
+  border-radius: 8px;
+
+  cursor: pointer;
+}
+
+.answer input[type="radio"],
+.answer input[type="checkbox"] {
+  width: auto;
+  margin: 0;
+  padding: 0;
+}
+
+.loading {
+  padding: 50px;
+  text-align: center;
+}
+
+.login-card input {
+  width: 100%;
+  box-sizing: border-box;
+}
+
+.chart-container {
+  width: 66%;
+  margin: 0 auto;
+}
+
+.info-icon {
+  margin-left: 6px;
+  color: #666;
+  cursor: help;
+  font-size: 14px;
+}
+
+.info-icon:hover {
+  color: #1976d2;
+}
+
+.risk-table{
+    width:auto;
+    border-collapse:collapse;
+}
+
+.risk-table th,
+.risk-table td{
+    padding:8px 16px 8px 0;
+}
+
+.risk-table th:last-child,
+.risk-table td:last-child{
+    text-align:right;
+}
+
+.failed-questions-container {
+  width: 100%;
+  max-width: 100%;
+  height: 400px;
+  position: relative;
+  margin: 0 auto;
+}
+

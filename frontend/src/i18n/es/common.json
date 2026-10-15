@@ -1,0 +1,40 @@
+{
+  "loading": "Cargando...",
+  "loadingSession": "Cargando sesión...",
+  "loadingDashboard": "Cargando panel...",
+  "loadingEvaluation": "Cargando evaluación...",
+  "loadingUserSession": "Cargando sesión del usuario...",
+  "invalidCredentials": "Credenciales incorrectas",
+
+  "messages": {
+    "noData": "No hay datos disponibles",
+    "noHighRiskStudents": "No hay ningún estudiante de alto riesgo."
+  },
+
+  "buttons": {
+    "save": "Guardar",
+    "cancel": "Cancelar",
+    "delete": "Eliminar",
+    "back": "Atrás",
+    "next": "Siguiente",
+    "finish": "Finalizar",
+    "search": "Buscar"
+  },
+
+  "table": {
+    "student": "Estudiante",
+    "risk": "Riesgo"
+  },
+
+  "roles": {
+    "student": "Estudiante",
+    "teacher": "Profesor",
+    "admin": "Administrador"
+  },
+
+  "evaluation": {
+    "completed": "Completada",
+    "abandoned": "Abandonada",
+    "inProgress": "En progreso"
+  }
+}

@@ -1,0 +1,30 @@
+# Archivos generados por la compilación
+/build/
+/dist/
+/AdaptIQBackend.spec
+
+# Archivos Python compilados y caché
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Caché y resultados de pruebas
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Entornos virtuales
+.venv/
+venv/
+env/
+
+# Variables de entorno y secretos
+.env
+.env.*
+!.env.example
+
+# Archivos temporales del sistema
+.DS_Store
+Thumbs.db
+seed_demo1.py
+seed_database.py

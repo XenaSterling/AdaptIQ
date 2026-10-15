@@ -1,0 +1,27 @@
+{
+  "completed": "Evaluation Completed",
+  "summary": "Evaluation Summary",
+  "finalScore": "Final Score",
+  "finalTheta": "Final Theta",
+  "performance": "Performance",
+  "level": "Level",
+  "accuracy": "Accuracy",
+  "theta": "Theta",
+  "thetaChange": "Theta Change",
+  "uncertainty": "Uncertainty",
+  "areasToImprove": "Areas to Improve",
+  "recommendedResources": "Recommended Resources",
+  "submitAnswer": "Submit Answer",
+  "selectAtLeastOne": "Please select at least one answer.",
+  "performanceLevels": {
+    "excellent": "Excellent",
+    "good": "Good",
+    "acceptable": "Acceptable",
+    "needs_improvement": "Needs improvement"
+  },
+  "levels": {
+    "basic": "Basic",
+    "intermediate": "Intermediate",
+    "advanced": "Advanced"
+  }
+}

@@ -1,0 +1,15 @@
+# Logs
+/backend.log
+/frontend.log
+
+# Archivos generados para el ejecutable
+/launcher/
+/postgres/
+/electron/
+/data/
+/build/
+/config/
+
+# Scripts locales de desarrollo
+/start.sh
+/start_adaptiq.ps1

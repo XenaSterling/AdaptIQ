@@ -1,0 +1,38 @@
+{
+  "tooltips": {
+    "theta": "Estimated ability of the student according to Item Response Theory (IRT). Higher values indicate greater mastery.",
+    "level": "Overall proficiency level derived from the estimated ability.",
+    "accuracy": "Percentage of correctly answered questions.",
+    "averageScore": "Average score across completed evaluations.",
+    "evaluations": "Number of completed evaluations.",
+    "uncertainty": "Standard error of the estimated ability. Lower values indicate a more reliable estimate.",
+    "confidence": "Confidence in the estimated ability. Lower uncertainty corresponds to higher confidence.",
+    "progress": "Difference between the first and latest estimated ability (Theta). Positive values indicate improvement.",
+    "totalStudents": "Total number of students enrolled in your courses.",
+    "totalUsers": "Total number of registered users on the platform.",
+    "totalCourses": "Number of active courses.",
+    "totalAnswers": "Total number of answers submitted by students.",
+    "averageTheta": "Average estimated ability across all students.",
+    "abandoned": "Evaluations started but not completed.",
+    "strugglingStudents": "Students identified as needing additional support.",
+    "totalEvaluations": "Total number of completed evaluations.",
+    "averageScoreTeacher": "Average score achieved by all students.",
+    "averageScoreAdmin": "Average score across all platform evaluations.",
+    "accuracyTeacher": "Overall percentage of correct student answers.",
+    "modulesCompleted": "Completed modules out of the total available.",
+    "averageModuleProgress": "Average completion percentage across all modules."
+  },
+
+  "chartTooltips": {
+    "thetaEvolution": "Evolution of the estimated ability over time.",
+    "weakTopics": "Topics where the student has obtained the lowest performance.",
+    "confidenceDistribution": "Current confidence in the estimated ability derived from the uncertainty of the estimate.",
+    "usersRole": "Distribution of registered users by role.",
+    "evaluationStatus": "Distribution of evaluations according to their completion status.",
+    "dropout": "Distribution of students according to their predicted dropout risk.",
+    "failedQuestions": "Questions with the highest failure rates.",
+    "cohorts": "Distribution of students grouped by estimated proficiency.",
+    "highRisk": "Students currently identified as having the highest probability of dropout.",
+    "moduleProgress": "Percentage of completion achieved for each course module."
+  }
+}

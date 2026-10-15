@@ -1,0 +1,40 @@
+{
+  "loading": "Loading...",
+  "loadingSession": "Loading session...",
+  "loadingDashboard": "Loading dashboard...",
+  "loadingEvaluation": "Loading evaluation...",
+  "loadingUserSession": "Loading user session...",
+  "invalidCredentials": "Invalid credentials",
+
+  "messages": {
+    "noData": "No data available",
+    "noHighRiskStudents": "There are no high risk students."
+  },
+
+  "buttons": {
+    "save": "Save",
+    "cancel": "Cancel",
+    "delete": "Delete",
+    "back": "Back",
+    "next": "Next",
+    "finish": "Finish",
+    "search": "Search"
+  },
+
+  "table": {
+    "student": "Student",
+    "risk": "Risk"
+  },
+
+  "roles": {
+    "student": "Student",
+    "teacher": "Teacher",
+    "admin": "Administrator"
+  },
+
+  "evaluation": {
+    "completed": "Completed",
+    "abandoned": "Abandoned",
+    "inProgress": "In progress"
+  }
+}

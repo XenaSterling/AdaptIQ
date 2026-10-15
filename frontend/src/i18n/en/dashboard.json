@@ -1,0 +1,78 @@
+{
+  "levels": {
+    "basic": "Basic",
+    "intermediate": "Intermediate",
+    "advanced": "Advanced"
+  },
+
+  "confidence": {
+    "high": "High",
+    "medium": "Medium",
+    "low": "Low"
+  },
+
+  "charts": {
+    "thetaEvolution": "Theta evolution",
+    "weakTopics": "Weak topics",
+    "confidenceDistribution": "Confidence level",
+    "dropoutRisk": "Dropout risk distribution",
+    "failedQuestions": "Most failed questions",
+    "cohorts": "Student cohorts",
+    "highRiskStudents": "High risk students",
+    "usersByRole": "Users by role",
+    "evaluationStatus": "Evaluation status",
+    "students": "Students",
+    "questions": "Questions",
+    "topics": "Topics",
+    "errorRate": "Error rate",
+    "errors": "Errors",
+    "studentsPerCohort": "Students per cohort",
+    "lowPerformance": "Low performance",
+    "mediumPerformance": "Medium performance",
+    "highPerformance": "High performance",
+    "cluster": "Cluster",
+    "evaluation": "Evaluations",
+    "step": "Step {{step}}",
+    "moduleProgress": "Module progress"
+  },
+
+  "student": {
+    "title": "Student Dashboard",
+
+    "theta": "Estimated ability",
+    "level": "Level",
+    "accuracy": "Accuracy",
+    "averageScore": "Average score",
+    "evaluations": "Evaluations",
+    "uncertainty": "Uncertainty",
+    "confidence": "Confidence",
+    "progress": "Progress",
+    "modulesCompleted": "Completed modules",
+    "averageModuleProgress": "Average progress"
+  },
+
+  "teacher": {
+    "title": "Teacher Dashboard",
+
+    "totalStudents": "Total students",
+    "accuracy": "Accuracy",
+    "totalEvaluations": "Completed evaluations",
+    "totalAnswers": "Total answers",
+    "averageScore": "Average score",
+    "averageTheta": "Average theta",
+    "strugglingStudents": "Students at risk"
+  },
+
+  "admin": {
+    "title": "Admin Dashboard",
+
+    "totalUsers": "Total users",
+    "totalCourses": "Total courses",
+    "totalEvaluations": "Total evaluations",
+    "averageScore": "Average score",
+    "averageTheta": "Average theta",
+    "abandonedEvaluations": "Abandoned evaluations"
+  },
+
+  "topics": {}
+}

@@ -1,0 +1,84 @@
+{
+  "questionManagement": "Gestión de preguntas",
+  "resourceManagement": "Recursos de aprendizaje",
+
+  "existingQuestions": "Preguntas existentes",
+  "existingResources": "Recursos existentes",
+
+  "createQuestion": "Crear pregunta",
+  "editQuestion": "Editar pregunta",
+
+  "createResource": "Crear recurso",
+  "editResource": "Editar recurso",
+
+  "questionContent": "Introduce el contenido de la pregunta...",
+
+  "singleChoice": "Respuesta única",
+  "multipleChoice": "Respuesta múltiple",
+
+  "difficulty": "Dificultad",
+  "discrimination": "Discriminación",
+  "estimatedTime": "Tiempo estimado",
+
+  "answers": "Respuestas",
+  "correct": "Correcta",
+  "addAnswer": "Añadir respuesta",
+  "remove": "Eliminar",
+
+  "type": "Tipo",
+  "bloom": "Bloom",
+  "tags": "Etiquetas",
+
+  "title": "Título",
+  "description": "Descripción",
+  "resourceDescription": "Describe el recurso de aprendizaje...",
+  "url": "URL",
+
+  "video": "Vídeo",
+  "article": "Artículo",
+  "pdf": "PDF",
+  "exercise": "Ejercicio",
+
+  "openResource": "Abrir recurso",
+
+  "noQuestions": "No se encontraron preguntas.",
+  "noResources": "No se encontraron recursos.",
+
+  "edit": "Editar",
+  "delete": "Eliminar",
+
+  "updateQuestion": "Actualizar pregunta",
+  "updateResource": "Actualizar recurso",
+
+  "createResourceButton": "Crear recurso",
+  "createQuestionButton": "Crear pregunta",
+
+  "loadingQuestions": "Cargando preguntas...",
+  "loadingResources": "Cargando recursos...",
+
+  "errorLoadingQuestions": "Error al cargar las preguntas",
+  "errorLoadingResources": "Error al cargar los recursos",
+
+  "errorSavingQuestion": "Error al guardar la pregunta",
+  "errorSavingResource": "Error al guardar el recurso",
+
+  "errorDeletingQuestion": "Error al eliminar la pregunta",
+  "errorDeletingResource": "Error al eliminar el recurso",
+
+  "confirmDeleteQuestion": "¿Eliminar la pregunta?",
+  "confirmDeleteResource": "¿Eliminar el recurso?",
+
+  "atLeastTwoAnswers": "Se requieren al menos dos respuestas.",
+
+  "remember": "Recordar",
+  "understand": "Comprender",
+  "apply": "Aplicar",
+  "analyze": "Analizar",
+  "evaluate": "Evaluar",
+  "create": "Crear",
+  "module": "Módulo",
+  "searchModule": "Buscar módulo...",
+  "searchTag": "Buscar etiqueta...",
+  "selected": "Seleccionado",
+  "createTag": "Crear \"{{tag}}\""
+}

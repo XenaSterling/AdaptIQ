@@ -1,0 +1,41 @@
+{
+  "title": "Recomendaciones",
+  "recommendedQuestions": "Preguntas recomendadas",
+  "recommendedResources": "Recursos recomendados",
+
+  "type": "Tipo",
+  "tags": "Etiquetas",
+
+  "resourceTypes": {
+    "video": "Vídeo",
+    "article": "Artículo",
+    "pdf": "PDF",
+    "exercise": "Ejercicio"
+  },
+
+  "difficulty": "Dificultad",
+  "reason": "Motivo",
+  "confidence": "Confianza",
+  "adaptive": "Adaptativo",
+  "noExplanation": "No hay explicación disponible",
+  "na": "N/D",
+  "similarStudents": "Estudiantes similares mejoraron en",
+  "openResource": "Abrir recurso",
+  "loading": "Cargando...",
+
+  "difficulty_progression": "Seleccionada para ajustar la progresión de dificultad",
+  "adaptive_learning": "Se adapta a tu nivel actual",
+
+  "weak_topic": "Recomendado porque es uno de tus temas más débiles",
+  "matches_ability": "Recomendado porque se adapta a tu nivel actual",
+
+  "yourLevel": "Tu nivel actual",
+  "level": "Nivel",
+  "accuracy": "Precisión",
+
+  "reasonTypes": {
+    "difficulty_progression": "Progresión de dificultad",
+    "adaptive_learning": "Aprendizaje adaptativo",
+    "weakness_based": "Tema débil"
+  }
+}

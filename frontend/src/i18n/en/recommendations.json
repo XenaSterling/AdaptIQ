@@ -1,0 +1,41 @@
+{
+  "title": "Recommendations",
+  "recommendedQuestions": "Recommended Questions",
+  "recommendedResources": "Recommended Resources",
+
+  "type": "Type",
+  "tags": "Tags",
+
+  "resourceTypes": {
+    "video": "Video",
+    "article": "Article",
+    "pdf": "PDF",
+    "exercise": "Exercise"
+  },
+
+  "difficulty": "Difficulty",
+  "reason": "Reason",
+  "confidence": "Confidence",
+  "adaptive": "Adaptive",
+  "noExplanation": "No explanation available",
+  "na": "N/A",
+  "similarStudents": "Similar students improved by",
+  "openResource": "Open resource",
+  "loading": "Loading...",
+
+  "difficulty_progression": "Selected to adjust difficulty progression",
+  "adaptive_learning": "Matches your current ability level",
+
+  "weak_topic": "Recommended because this is one of your weakest topics",
+  "matches_ability": "Recommended because it matches your current ability level",
+
+  "yourLevel": "Your current level",
+  "level": "Level",
+  "accuracy": "Accuracy",
+
+  "reasonTypes": {
+    "difficulty_progression": "Difficulty progression",
+    "adaptive_learning": "Adaptive learning",
+    "weakness_based": "Weak topic"
+  }
+}

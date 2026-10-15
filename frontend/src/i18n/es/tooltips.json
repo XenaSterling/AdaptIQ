@@ -1,0 +1,38 @@
+{
+  "tooltips": {
+    "theta": "Habilidad estimada del estudiante según la Teoría de Respuesta al Ítem (IRT). Valores más altos indican un mayor dominio.",
+    "level": "Nivel de competencia obtenido a partir del valor Theta.",
+    "accuracy": "Porcentaje de preguntas respondidas correctamente.",
+    "averageScore": "Puntuación media obtenida en las evaluaciones completadas.",
+    "evaluations": "Número de evaluaciones completadas.",
+    "uncertainty": "Error estándar de la estimación de Theta. Valores más bajos indican una estimación más fiable.",
+    "confidence": "Grado de confianza en la estimación de Theta. Una menor incertidumbre implica una mayor confianza.",
+    "progress": "Diferencia entre el primer y el último valor de Theta. Valores positivos indican mejora.",
+    "totalStudents": "Número total de estudiantes matriculados en tus cursos.",
+    "totalUsers": "Número total de usuarios registrados en la plataforma.",
+    "totalCourses": "Número de cursos activos.",
+    "totalAnswers": "Número total de respuestas enviadas por los estudiantes.",
+    "averageTheta": "Habilidad media estimada de todos los estudiantes.",
+    "abandoned": "Evaluaciones iniciadas pero no finalizadas.",
+    "strugglingStudents": "Estudiantes que requieren apoyo adicional según su rendimiento.",
+    "totalEvaluations": "Número total de evaluaciones realizadas.",
+    "averageScoreTeacher": "Puntuación media obtenida por todos los estudiantes.",
+    "averageScoreAdmin": "Puntuación media obtenida en todas las evaluaciones de la plataforma.",
+    "accuracyTeacher": "Porcentaje global de respuestas correctas de los estudiantes.",
+    "modulesCompleted": "Número de módulos completados respecto al total disponible.",
+    "averageModuleProgress": "Porcentaje medio de progreso alcanzado entre todos los módulos."
+  },
+
+  "chartTooltips": {
+    "thetaEvolution": "Evolución de la habilidad estimada a lo largo del tiempo.",
+    "weakTopics": "Temas en los que el estudiante presenta menor rendimiento.",
+    "confidenceDistribution": "Nivel actual de confianza en la estimación de la habilidad obtenido a partir de la incertidumbre.",
+    "usersByRole": "Distribución de usuarios registrados según su rol.",
+    "evaluationStatus": "Distribución de las evaluaciones según su estado.",
+    "dropout": "Distribución de estudiantes según su riesgo de abandono.",
+    "failedQuestions": "Preguntas con mayor porcentaje de fallos.",
+    "cohorts": "Distribución de estudiantes agrupados por nivel de competencia.",
+    "highRisk": "Estudiantes identificados con mayor probabilidad de abandono.",
+    "moduleProgress": "Porcentaje de progreso alcanzado en cada módulo del curso."
+  }
+}
